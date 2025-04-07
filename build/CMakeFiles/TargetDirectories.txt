@@ -1,3 +1,4 @@
-/Users/abtahitajwar/Documents/C++ Learn/multithread/build/CMakeFiles/out.dir
-/Users/abtahitajwar/Documents/C++ Learn/multithread/build/CMakeFiles/edit_cache.dir
-/Users/abtahitajwar/Documents/C++ Learn/multithread/build/CMakeFiles/rebuild_cache.dir
+/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/out.dir
+/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/file.dir
+/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/edit_cache.dir
+/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/rebuild_cache.dir

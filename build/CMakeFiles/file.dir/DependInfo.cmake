@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/fedora/Documents/CSystemProgrammingPractice/src/main.c" "CMakeFiles/out.dir/src/main.c.o" "gcc" "CMakeFiles/out.dir/src/main.c.o.d"
+  "/home/fedora/Documents/CSystemProgrammingPractice/src/fileio/main.c" "CMakeFiles/file.dir/src/fileio/main.c.o" "gcc" "CMakeFiles/file.dir/src/fileio/main.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
