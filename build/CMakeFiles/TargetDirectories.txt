@@ -1,4 +1,6 @@
-/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/out.dir
-/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/file.dir
-/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/edit_cache.dir
-/home/fedora/Documents/CSystemProgrammingPractice/build/CMakeFiles/rebuild_cache.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/out.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/file.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/str3.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/str5.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/edit_cache.dir
+/home/alarm/CSystemProgrammingPractice/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/str3.dir/link.d CMakeFiles/str3.dir/src/cp/str3.c.o -o str3

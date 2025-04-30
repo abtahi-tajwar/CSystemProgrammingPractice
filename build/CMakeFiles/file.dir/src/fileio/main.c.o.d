@@ -1,5 +1,5 @@
 CMakeFiles/file.dir/src/fileio/main.c.o: \
- /home/fedora/Documents/CSystemProgrammingPractice/src/fileio/main.c \
+ /home/alarm/CSystemProgrammingPractice/src/fileio/main.c \
  /usr/include/stdc-predef.h /usr/include/fcntl.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
@@ -12,7 +12,7 @@ CMakeFiles/file.dir/src/fileio/main.c.o: \
  /usr/include/bits/stat.h /usr/include/bits/struct_stat.h \
  /usr/include/unistd.h /usr/include/bits/posix_opt.h \
  /usr/include/bits/environments.h \
- /usr/lib/gcc/aarch64-redhat-linux/13/include/stddef.h \
+ /usr/lib/gcc/aarch64-unknown-linux-gnu/14.2.1/include/stddef.h \
  /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
  /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
  /usr/include/string.h /usr/include/bits/libc-header-start.h \

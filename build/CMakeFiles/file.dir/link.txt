@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/file.dir/src/fileio/main.c.o -o file 
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/file.dir/link.d CMakeFiles/file.dir/src/fileio/main.c.o -o file
